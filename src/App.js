@@ -5,6 +5,7 @@ import {
   mainBody,
   about,
   repos,
+  
   leadership,
   skills,
   getInTouch,
